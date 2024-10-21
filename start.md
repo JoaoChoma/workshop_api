@@ -53,3 +53,6 @@ Baixe o Docker:
 1. **Siga a documentação oficial**: Sempre consulte a documentação oficial de cada ferramenta para conhecer mais detalhes sobre o uso e as melhores práticas.
 2. **Integração com GitHub**: Se você planeja versionar o código, considere integrar com o GitHub para controle de versão e colaboração.
 3. **Utilize a comunidade**: Em caso de dúvidas, as comunidades dessas ferramentas oferecem ótimos recursos, tutoriais e fóruns de suporte.
+
+
+https://gamma.app/docs/Desenvolvimento-de-APIs-com-FastAPI-MongoDB-e-AI-znwylcy2mzpoz16?mode=doc
